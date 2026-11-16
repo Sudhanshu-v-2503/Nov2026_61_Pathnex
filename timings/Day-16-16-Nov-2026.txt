@@ -1,0 +1,10 @@
+4Hrs - Helm and Kubernetes
+2Hr  - Practical
+2Hr  - Homework/Task
+1Hr  - Video
+1Hr  - Revision
+
+Tomoorow
+Practical
+CI/CD
+
