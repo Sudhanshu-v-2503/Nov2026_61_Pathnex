@@ -1,0 +1,7 @@
+4HRS Ansible
+2HRS Ptactical
+1HR  Revision
+1HR  Homework
+
+Tomorrow -
+Entire Day CI/CD
